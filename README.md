@@ -10,7 +10,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/khoroshilovm2014-svg/RuLoad/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-@i_ruload-2CA5E0?logo=telegram)](https://t.me/i_ruload)
 
-[Скачать](#-скачать) · [Возможности](#-возможности) · [FAQ](#-частые-вопросы) · [Telegram](https://t.me/i_ruload)
+[🌐 Сайт](https://ruload.kdzd.ru) · [Скачать](#-скачать) · [Возможности](#-возможности) · [FAQ](#-частые-вопросы) · [Telegram](https://t.me/i_ruload)
 
 </div>
 
@@ -205,6 +205,7 @@ RuLoad — независимый проект, **не связанный с App
 
 ## 💬 Связь
 
+- **🌐 Сайт:** [ruload.kdzd.ru](https://ruload.kdzd.ru)
 - **Telegram-канал:** [@i_ruload](https://t.me/i_ruload)
 - **GitHub Issues:** [сообщить о баге](https://github.com/khoroshilovm2014-svg/RuLoad/issues)
 
