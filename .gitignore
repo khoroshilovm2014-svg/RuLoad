@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nuitka
+*.build/
+*.dist/
+*.onefile-build/
+
+# RuLoad специфичные
+data/settings.json
+data/certs/
+apps/*.ipa
+downloads/
